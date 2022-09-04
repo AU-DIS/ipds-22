@@ -15,10 +15,9 @@ The structure of the repository is as follows:
 
 Before you begin, please install Anaconda. After installing conda, you should run the following commands to set up a suitable environment for the course:
 
-  conda create -n py22 scipy numpy scikit-learn pandas jupyter matplotlib  
-
-  conda activate py22
+    conda create -n py22 scipy numpy scikit-learn pandas jupyter matplotlib 
+    conda activate py22
 
 To run jupyter, run the following command:
 
-  jupyter lab
+    jupyter lab
