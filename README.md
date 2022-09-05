@@ -20,4 +20,4 @@ Before you begin, please install Anaconda. After installing conda, you should ru
 
 To run jupyter, run the following command:
 
-    jupyter lab
+    jupyter notebook
